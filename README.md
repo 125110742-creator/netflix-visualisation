@@ -1,1 +1,1 @@
-# netflix-visualisation
+# netflix
